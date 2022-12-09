@@ -13,12 +13,12 @@ function BackgroundColor(){
                 
             }           
             }>
-                <option value="white">לבן</option>
-                <option value="red">אדום</option>
-                <option value="green">ירוק</option>
-                <option value="blue">כחול</option>
-                <option value="yellow">צהוב</option>
-                <option value="black">שחור</option>
+                <option value="white">&nbsp;לבן</option>
+                <option value="red">&nbsp;אדום</option>
+                <option value="green">&nbsp;ירוק</option>
+                <option value="blue">&nbsp;כחול</option>
+                <option value="yellow">&nbsp;צהוב</option>
+                <option value="black">&nbsp;שחור</option>
             </select>
         </div>
     );
